@@ -1,0 +1,2 @@
+<?php die('forbidden'); ?>
+{"appid":"101476195","appkey":"f9fc4269e7138fe4345baef074876b04","callback":"http://www.ppkanshu.com/shequ/qqhuidiao/index.html","scope":"get_user_info","errorReport":true,"storageType":"file","host":"localhost","user":"root","password":"root","database":"test"}

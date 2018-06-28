@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin version="php">
+<id>pp_plugin_shequ</id>
+<name>社区模块</name>
+<url></url>
+<note>这是一个社区插件，可以增加会员注册发帖，用户中心模块，后台用户管理做了相应的增强。</note>
+<description></description>
+<path>main.php</path>
+<include>include.php</include>
+<level>1</level>
+<author>
+  <name>包子也沉默</name>
+  <email>lztian1113@163.com</email>
+  <url>http://www.ppkanshu.com</url>
+</author>
+<source>
+  <name></name>
+  <email></email>
+  <url></url>
+</source>
+<adapted>151910</adapted>
+<version>1.0</version>
+<pubdate>2018-05-14</pubdate>
+<modified>2018-05-14</modified>
+<price>299</price>
+<phpver>5.3</phpver>
+<advanced>
+  <dependency></dependency>
+  <rewritefunctions></rewritefunctions>
+  <existsfunctions></existsfunctions>
+  <conflict></conflict>
+</advanced>
+<sidebars>
+  <sidebar1></sidebar1>
+  <sidebar2></sidebar2>
+  <sidebar3></sidebar3>
+  <sidebar4></sidebar4>
+  <sidebar5></sidebar5>
+</sidebars>
+</plugin>

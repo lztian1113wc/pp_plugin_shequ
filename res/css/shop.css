@@ -1,0 +1,53 @@
+.fly-none {
+    min-height: 600px;
+    text-align: center;
+    padding-top: 5px;
+    color: #999;
+}
+.shequ-shop-index-ul{
+    text-align: left;
+}
+.shequ-shop-index-ul li{
+    position: relative;
+    display: inline-block;
+    margin: 25px;
+    margin-left: 40px;
+    padding: 5px;
+    width: 210px;
+    height: 260px;
+    box-shadow: 0px 0px 5px #888888;
+    background-color: #eeeeee;
+}
+.shequ-shop-index-ul li img{
+    width: 210px;
+    height: 200px;
+}
+.shequ-shop-index-ul li p{
+    margin: 7px 0px 0px 0px;
+    padding: 0px;
+    color: #000;
+    height: 25px;
+    line-height: 25px;
+    font-size: 16px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.shequ-shop-index-ul li .layui-btn{
+    position: absolute;
+    right: 5px;
+}
+.shequ-shop-index-ul li div{
+    position: absolute;
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 25px;
+}
+.shequ-shop-index-ul li .xj{
+    color:#FF5722
+}
+.shequ-shop-index-ul li .yj{
+    color:#2F4056;
+    text-decoration:line-through;;
+}
